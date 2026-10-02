@@ -1,4 +1,4 @@
-# Bài tập 2 - Nhóm 5
+# Bài tập 2 - Lớp INT3304-2 - Nhóm 5
 
 Server gửi `N` số qua TCP; client tính tổng và gửi lại; server báo `DUNG` hoặc `SAI`.
 
